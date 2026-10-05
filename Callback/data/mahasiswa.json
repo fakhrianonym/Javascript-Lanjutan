@@ -1,0 +1,23 @@
+[
+  {
+    "nama" : "Tomi Sutarji",
+    "nrp" : "12345678",
+    "email" : "omay123@gmail.com",
+    "jurusan" : "Teknik Informatika",
+    "idDosenWali" : 1
+},
+{
+    "nama" : "Ijum",
+    "nrp" : "12345677",
+    "email" : "Ijum123@gmail.com",
+    "jurusan" : "Teknik Informatika",
+    "idDosenWali" : 2
+},
+{
+    "nama" : "Eko Patrio",
+    "nrp" : "1234567899",
+    "email" : "ekopatrio1@gmail.com",
+    "jurusan" : "Teknik Informatika",
+    "idDosenWali" : 2
+}   
+]
